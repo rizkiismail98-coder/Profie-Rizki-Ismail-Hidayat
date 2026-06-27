@@ -215,7 +215,7 @@ export default function Hero() {
 
             <Image
 
-              src="/rizki.jpg"
+              src="/rizki.JPG"
 
               width={420}
 
